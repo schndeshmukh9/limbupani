@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Kuberganga Store</title>
+  <title>limbupani Store</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header>
-    <h1>Kuberganga</h1>
+    <h1>limbupani</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="catalog.php">Products</a>
@@ -22,7 +22,8 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Kuberganga. All rights reserved.</p>
+    <p>&copy; 2025 Limbupani. All rights reserved.</p>
   </footer>
 </body>
+
 </html>
